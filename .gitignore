@@ -1,0 +1,5 @@
+twitter-separation/cache.txt
+twitter-separation/cache2.txt
+twitter-separation/.env
+venv/
+.idea/
